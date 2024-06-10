@@ -1,0 +1,27 @@
+{
+  "name": "llm-json",
+  "version": "1.0.0",
+  "description": "Parse oddly formatted JSON received from LLM replies.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterHarplabs/llm-json.git"
+  },
+  "keywords": [
+    "JSON",
+    "AI",
+    "LLM"
+  ],
+  "author": "Peter Deal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterHarplabs/llm-json/issues"
+  },
+  "homepage": "https://github.com/PeterHarplabs/llm-json#readme"
+}
